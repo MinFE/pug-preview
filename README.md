@@ -1,2 +1,2 @@
 # pug-preview
-The use to preview pug grammar.
+The project was to preview pug grammar.

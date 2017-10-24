@@ -1,0 +1,26 @@
+{
+  "name": "pug-preview",
+  "version": "1.0.0",
+  "description": "The project was to preview pug grammar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MinFE/pug-preview.git"
+  },
+  "keywords": [
+    "pug",
+    "preview"
+  ],
+  "author": "minfive <chenxiaowu1994@outlook.com> (http://blog.minfive.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MinFE/pug-preview/issues"
+  },
+  "homepage": "https://github.com/MinFE/pug-preview#readme",
+  "dependencies": {
+    "pug": "^2.0.0-rc.4"
+  }
+}
